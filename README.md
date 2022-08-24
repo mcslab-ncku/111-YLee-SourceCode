@@ -1,4 +1,4 @@
-# 111-YLee-sourcecode
+# 111-YLee-SourceCode
 ## Wireless部分
 請參閱Wireless.ipynb，在這個檔案可以輸出每兩位使用者在無線訊號的相似度，有了相似度再跑Louvain's_Algorithm.ipynb來分群
 
